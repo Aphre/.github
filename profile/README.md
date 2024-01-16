@@ -1,5 +1,5 @@
 # Aphre
-<img width="960" alt="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimage-610378650%2Fcool-lightning-blue-purple-letter-a.html&psig=AOvVaw00AVXmBmRJNukj2V-zxDu2&ust=1705527367610000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCMjs0dnu4oMDFQAAAAAdAAAAABAE">
+<img width"960" alt="aphre_logo" src-"https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fvector-logo-letter-a-glitch-distortion-diagonal%2F222440170&psig=AOvVaw1UEersZW5OlUgZ0AnOrbvw&ust=1705527673074000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjDue3v4oMDFQAAAAAdAAAAABAp">
 Aphre is an non-profit orginization made by @d1novnc to give you information about the web. (Kinda like Wikipedia) I specialize in html and css.
 
 ## My Site
